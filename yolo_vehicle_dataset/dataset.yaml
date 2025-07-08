@@ -1,0 +1,7 @@
+names:
+- car
+nc: 1
+path: D:\yingyong\vscode\workspace\python\dathridks\bigwork\yolo_vehicle_dataset
+test: test/images
+train: train/images
+val: val/images
